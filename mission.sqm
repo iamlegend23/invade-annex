@@ -944,7 +944,7 @@ class Mission
 					rank="LIEUTENANT";
 					skill=0.60000002;
 					init="(group this) setGroupId [""TV""];";
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot";
 				};
 				class Item1
 				{
@@ -957,7 +957,7 @@ class Mission
 					player="PLAY CDG";
 					rank="CORPORAL";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot";
 				};
 				class Item2
 				{
@@ -970,7 +970,7 @@ class Mission
 					player="PLAY CDG";
 					rank="SERGEANT";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot";
 				};
 				class Item3
 				{
@@ -982,7 +982,7 @@ class Mission
 					vehicle="B_Helipilot_F";
 					player="PLAY CDG";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot";
 				};
 				class Item4
 				{
