@@ -2,11 +2,11 @@
 @filename: init.sqf
 Author:
 	
-	Quiksilver
+	Quiksilver & Doctor Otterface
 
 Last modified:
 
-	12/05/2014
+	19/07/2014
 	
 Description:
 
@@ -16,3 +16,4 @@ ______________________________________________________*/
 
 
 call compile preprocessFile "scripts\=BTC=_revive\=BTC=_revive_init.sqf";		// revive
+0 = execVM "IgiLoad\IgiLoadInit.sqf"
